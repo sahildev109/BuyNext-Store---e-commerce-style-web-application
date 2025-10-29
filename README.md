@@ -1,4 +1,4 @@
- # BuyNext Store - e-commerce-style web application
+ # BuyNext Store - e-commerce-style web application | Live - [BuyNext Store](https://buy-next-store-e-commerce-style-web.vercel.app/)
  ## A modern e-commerce product catalog built with Next.js 16.0.1, TypeScript, and Tailwind CSS. This application demonstrates multiple rendering strategies available in Next.js across different pages.
 
  ##  Project Structure
@@ -198,6 +198,10 @@ MongoDB
 PostgreSQL
 
 Any other database
+
+## Deployment 
+### Used Vercel
+
 ## 🎯 Key Features
 ✅ Multiple rendering strategies demonstration
 
@@ -220,6 +224,9 @@ Any other database
 ## Sahil Salap
 #### Date: 29 Oct 2025
 ## sahilsalap75@gmail.com
+
+### Built with Next.js, TypeScript, and Tailwind CSS
+#### Demonstrating modern web development practices and rendering strategies
 
 
 
