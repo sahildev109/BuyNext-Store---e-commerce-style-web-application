@@ -1,0 +1,52 @@
+[
+  {
+    "id": "1",
+    "name": "Wireless Bluetooth Headphones",
+    "slug": "wireless-bluetooth-headphones",
+    "description": "High-quality wireless headphones with noise cancellation",
+    "price": 99.99,
+    "category": "Electronics",
+    "inventory": 15,
+    "lastUpdated": "2024-01-15T10:30:00Z"
+  },
+  {
+    "id": "2",
+    "name": "Smart Fitness Watch",
+    "slug": "smart-fitness-watch",
+    "description": "Track your fitness goals with this advanced smartwatch",
+    "price": 199.99,
+    "category": "Electronics",
+    "inventory": 8,
+    "lastUpdated": "2024-01-14T14:20:00Z"
+  },
+  {
+    "id": "3",
+    "name": "Organic Cotton T-Shirt",
+    "slug": "organic-cotton-tshirt",
+    "description": "Comfortable and sustainable organic cotton t-shirt",
+    "price": 29.99,
+    "category": "Clothing",
+    "inventory": 25,
+    "lastUpdated": "2024-01-13T09:15:00Z"
+  },
+  {
+    "id": "4",
+    "name": "Stainless Steel Water Bottle",
+    "slug": "stainless-steel-water-bottle",
+    "description": "Keep your drinks hot or cold for hours",
+    "price": 24.99,
+    "category": "Accessories",
+    "inventory": 3,
+    "lastUpdated": "2024-01-12T16:45:00Z"
+  },
+  {
+    "id": "5",
+    "name": "Programming Book Bundle",
+    "slug": "programming-book-bundle",
+    "description": "Collection of best programming books for developers",
+    "price": 79.99,
+    "category": "Books",
+    "inventory": 12,
+    "lastUpdated": "2024-01-11T11:00:00Z"
+  }
+]
