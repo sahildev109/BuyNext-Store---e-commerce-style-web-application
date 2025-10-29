@@ -198,13 +198,14 @@ export default function AdminPanel() {
       {/* Product Form */}
       {showForm && (
         <ProductForm
-          product={editingProduct}
-          onSubmit={editingProduct ? 
-            (data) => handleUpdateProduct(editingProduct.id, data) : 
-            handleCreateProduct
-          }
-          onCancel={handleCancel}
-        />
+  product={editingProduct}
+  onSubmit={
+    editingProduct
+      ? (data) => handleUpdateProduct(editingProduct.id, data as UpdateProductRequest)
+      : (data) => handleCreateProduct(data as CreateProductRequest)
+  }
+  onCancel={handleCancel}
+/>
       )}
 
       {/* Products List */}

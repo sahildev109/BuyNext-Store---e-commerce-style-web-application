@@ -34,7 +34,8 @@ npm or yarn
 Clone the repository
 
 ```bash
-git clone <your-repository-url>
+git clone https://github.com/sahildev109/BuyNext-Store---e-commerce-style-web-application.git
+
 cd ecommerce-app
 ```
 ### Install dependencies
